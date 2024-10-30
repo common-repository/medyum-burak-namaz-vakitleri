@@ -1,0 +1,98 @@
+.namaz_container {
+    display: block;
+    width: 100%;
+    clear: both;
+    height: auto;
+    background: #FBFBFB;
+    border: 1px solid #DFDFDF;
+    border-radius: 3px;
+    overflow: hidden;
+    text-align: center;
+    padding: 10px;
+}
+
+.namaz_container .form-controls {
+    margin: 0 auto;
+    text-align: left;
+}
+
+.namaz_container label {
+    font-size: 14px;
+    margin-bottom: 3px;
+    display: block;
+}
+
+.namaz_container .form-control {
+    display: block;
+    width: 100%;
+    clear: both;
+    float: none;
+    padding: 8px 12px;
+    background: #FBFBFB;
+    border: 1px solid #DFDFDF;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.namaz_container .form-control:focus, .namaz_container .form-control:active {
+    outline: 0;
+}
+
+.namaz_copyright {
+    font-family: 'Tahoma';
+    display: block;
+    margin: 5px auto;
+    font-size: 12px;
+    color: #888;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.namaz_container .panel {
+    display: block;
+    clear: both;
+}
+
+.namaz_container .panel .panel-heading {
+    display: block;
+}
+
+.namaz_container .panel .panel-heading a {
+    display: block;
+    padding: 8px 12px;
+    background: #DFDFDF;
+    border: 1px solid #DFDFDF;
+    text-align: left;
+    outline: 0;
+}
+
+.namaz_container .panel .panel-heading a:focus, .namaz_container .panel .panel-heading a:hover {
+    outline: 0;
+}
+
+.namaz_container .panel .panel-body {
+    display: block;
+    border: 1px solid #DFDFDF;
+    background: #FBFBFB;
+    padding: 10px;
+}
+
+.namaz_container hr {
+    margin: 10px 0px;
+    background-color: #dfdfdf;
+}
+
+.namaz_container .namaz_vakitler_container table {
+    margin: 0 !important;
+}
+
+.namaz_container .namaz_vakitler_container table tbody td.header {
+    text-align: center;
+    font-weight: bold;
+}
+
+.namaz_container .namaz_vakitler_container table tbody td {
+    padding: 4px 5px;
+    text-align: left;
+    background: #FFFFFF;
+}

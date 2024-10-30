@@ -1,0 +1,54 @@
+.row {
+    display: block;
+}
+
+.col-md-12 {
+    display: block;
+}
+
+.form-group {
+    display: block;
+    padding: 10px;
+    border: 1px solid #DFDFDF;
+    margin-bottom: 10px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+    margin-left: 2px;
+}
+
+.form-group .form-control {
+    display: block;
+    width: 100%;
+    padding: 4px 8px;
+    border: 1px solid #DFDFDF;
+    min-height: 40px;
+    box-sizing: border-box;
+}
+
+.wp-picker-clear {
+    display: block !important;
+}
+
+.wp-picker-input-wrap {
+    display: none !important;
+}
+
+.wp-picker-container input {
+    width: 100% !important;
+}
+
+.alert {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.alert-info {
+    background-color: #f47a42;
+    color: #FFFFFF;
+    padding: 8px;
+    font-weight: bold;
+}
